@@ -1,0 +1,10 @@
+apache-airflow[celery]
+apache-airflow[redis]
+apache-airflow[rabbitmq]
+apache-airflow[cncf.kubernetes]
+connexion[swagger-ui]
+apache-airflow-providers-papermill
+apache-airflow-providers-celery
+apache-airflow-providers-redis
+psycopg2-binary
+ipykernel
